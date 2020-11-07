@@ -8,11 +8,9 @@ The webpage allows for users to filter with 5 different filtering options by typ
 
 When they enter the fields they want to filter by and press enter the table will be automatically updated with the filtered data as seen below:
 
-
-
+<img width="1252" alt="Screen Shot 2020-11-07 at 3 57 03 PM" src="https://user-images.githubusercontent.com/69806770/98451250-fb58e600-2111-11eb-8243-15c759d043aa.png">
 
 By keeping the filter more broad there are higher number of items returned. By entering too many filters it is possible that no data will show up as there were no UFO sightings with those criteria.
-
 ## Summary
 ### Drawback
 The user will not know what the filter options are for each filter category unless they go through the whole dataset. For example, the user might not know until what year there is data available unless they scroll through the whole table which is what the filters are meant to allow the user not to do.
