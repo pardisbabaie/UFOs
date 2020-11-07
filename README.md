@@ -6,7 +6,7 @@ The webpage allows for users to filter with 5 different filtering options by typ
 
 <img width="251" alt="Screen Shot 2020-11-06 at 5 26 14 PM" src="https://user-images.githubusercontent.com/69806770/98429078-8f737080-2072-11eb-93cb-103b46056742.png">
 
-When they enter the fields they want to filter by and press enter the table will be automatically updated with the filtered data as seen below:
+When they enter the fields they want to filter by and press enter the table will be automatically updated with the filtered data. Below I have done 3 filters with the date (1/1/2010), city(el cajon) and country(us) as seen below:
 
 <img width="1252" alt="Screen Shot 2020-11-07 at 3 57 03 PM" src="https://user-images.githubusercontent.com/69806770/98451250-fb58e600-2111-11eb-8243-15c759d043aa.png">
 
